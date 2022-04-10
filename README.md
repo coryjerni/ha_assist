@@ -1,6 +1,6 @@
-# Price Tracking Proxy
+# OSRS High Alch Assistant
 
 ## About
-
-Using python libraries to visualize and track pricing changes 
-to make informed purchasing decisions - OSRS economy as proxy
+Python GUI that takes user input to check ge pricing 
+for profitable items to alch, and peforms the 
+user specified number of alchs.
